@@ -1,0 +1,5 @@
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\netstandard2.0\QuizLibrary.csproj.AssemblyReference.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\netstandard2.0\QuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\netstandard2.0\QuizLibrary.AssemblyInfoInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\netstandard2.0\QuizLibrary.AssemblyInfo.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\netstandard2.0\QuizLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+    <NoWarn>$(NoWarn);NU1507</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="System.Net.Http.Json" Version="9.0.4" />
+    <PackageVersion Include="Xamarin.Essentials" Version="1.7.0" />
+    <PackageVersion Include="Xamarin.Forms" Version="5.0.0.2196" />
+  </ItemGroup>
+</Project>

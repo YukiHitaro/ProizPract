@@ -1,0 +1,8 @@
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp_MarkupCompile.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp.g.resources
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp.AssemblyInfoInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp.AssemblyInfo.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizDesktopApp\obj\Debug\net8.0-windows\QuizDesktopApp.csproj.CoreCompileInputs.cache

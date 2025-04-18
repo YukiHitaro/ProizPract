@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\birth_of_venus.jpg" />
+    <None Remove="Assets\flowers.jpg" />
+    <None Remove="Assets\guernica.jpg" />
+    <None Remove="Assets\las_meninas.jpg" />
+    <None Remove="Assets\mona_lisa.jpg" />
+    <None Remove="Assets\persistence_of_memory.jpg" />
+    <None Remove="Assets\starry_night.jpg" />
+    <None Remove="Assets\sunflowers.jpg" />
+    <None Remove="Assets\the_kiss.jpg" />
+    <None Remove="Assets\the_scream.jpg" />
+    <None Remove="Assets\water_lilies.jpg" />
+    <None Remove="quiz_data.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\flowers.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="quiz_data.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\guernica.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\QuizLibrary\QuizLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\birth_of_venus.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\las_meninas.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\mona_lisa.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\persistence_of_memory.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\starry_night.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\the_kiss.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\the_scream.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\water_lilies.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

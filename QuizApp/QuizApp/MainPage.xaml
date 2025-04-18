@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QuizApp.MainPage"
+             BackgroundColor="#1e1e2e"
+             Title="Музейная Викторина">
+
+    <StackLayout Padding="20" Spacing="15">
+        <!-- Таймер -->
+        <Label x:Name="TimerLabel"
+               Text="Осталось: 15 сек."
+               FontSize="18"
+               FontAttributes="Bold"
+               HorizontalOptions="End"
+               TextColor="LightGreen" />
+
+        <!-- Изображение -->
+        <Image x:Name="QuestionImage"
+               HeightRequest="250"
+               Aspect="AspectFit" />
+
+        <!-- Вопрос -->
+        <Label x:Name="QuestionLabel"
+               FontSize="22"
+               FontAttributes="Bold"
+               TextColor="White"
+               HorizontalTextAlignment="Center" />
+
+        <!-- Варианты ответов -->
+        <Grid ColumnSpacing="10" RowSpacing="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="OptionButton0" Clicked="OnOptionClicked" Grid.Row="0" Grid.Column="0" Style="{StaticResource QuizButtonStyle}" />
+            <Button x:Name="OptionButton1" Clicked="OnOptionClicked" Grid.Row="0" Grid.Column="1" Style="{StaticResource QuizButtonStyle}" />
+            <Button x:Name="OptionButton2" Clicked="OnOptionClicked" Grid.Row="1" Grid.Column="0" Style="{StaticResource QuizButtonStyle}" />
+            <Button x:Name="OptionButton3" Clicked="OnOptionClicked" Grid.Row="1" Grid.Column="1" Style="{StaticResource QuizButtonStyle}" />
+        </Grid>
+
+        <!-- Кнопка пропуска -->
+        <Button Text="Пропустить вопрос"
+                x:Name="SkipButton"
+                Clicked="OnSkipClicked"
+                BackgroundColor="DarkSlateBlue"
+                TextColor="White"
+                FontAttributes="Bold"
+                CornerRadius="10"
+                HeightRequest="40"
+                HorizontalOptions="Center"
+                WidthRequest="200"/>
+    </StackLayout>
+</ContentPage>

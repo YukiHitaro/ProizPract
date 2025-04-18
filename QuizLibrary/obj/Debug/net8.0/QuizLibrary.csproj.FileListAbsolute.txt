@@ -1,0 +1,11 @@
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\bin\Debug\net8.0\QuizLibrary.deps.json
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\bin\Debug\net8.0\QuizLibrary.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\bin\Debug\net8.0\QuizLibrary.pdb
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.AssemblyInfoInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.AssemblyInfo.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.csproj.CoreCompileInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\refint\QuizLibrary.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\QuizLibrary.pdb
+C:\Users\TurTle\Desktop\производственная практика\QuizLibrary\obj\Debug\net8.0\ref\QuizLibrary.dll

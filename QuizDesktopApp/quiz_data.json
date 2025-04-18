@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1",
+    "ImagePath": "Assets/starry_night.jpg",
+    "QuestionText": "Кто автор картины 'Звёздная ночь'?",
+    "Options": [ "Моне", "Пикассо", "Ван Гог", "Дали" ],
+    "CorrectOptionIndex": 2
+  },
+  {
+    "Id": "2",
+    "ImagePath": "Assets/guernica.jpg",
+    "QuestionText": "Кто написал 'Гернику'?",
+    "Options": [ "Дали", "Моне", "Пикассо", "Матисс" ],
+    "CorrectOptionIndex": 2
+  },
+  {
+    "Id": "3",
+    "ImagePath": "Assets/mona_lisa.jpg",
+    "QuestionText": "Кто написал 'Мону Лизу'?",
+    "Options": [ "Рафаэль", "Леонардо да Винчи", "Микеланджело", "Боттичелли" ],
+    "CorrectOptionIndex": 1
+  },
+  {
+    "Id": "4",
+    "ImagePath": "Assets/the_scream.jpg",
+    "QuestionText": "Кто автор картины 'Крик'?",
+    "Options": [ "Мунк", "Ван Гог", "Климт", "Пикассо" ],
+    "CorrectOptionIndex": 0
+  },
+  {
+    "Id": "5",
+    "ImagePath": "Assets/water_lilies.jpg",
+    "QuestionText": "Кто написал серию картин 'Водяные лилии'?",
+    "Options": [ "Ренуар", "Дега", "Моне", "Мане" ],
+    "CorrectOptionIndex": 2
+  },
+  {
+    "Id": "6",
+    "ImagePath": "Assets/persistence_of_memory.jpg",
+    "QuestionText": "Кто написал картину 'Постоянство памяти' (Мягкие часы)?",
+    "Options": [ "Магритт", "Миро", "Дали", "Шагал" ],
+    "CorrectOptionIndex": 2
+  },
+  {
+    "Id": "7",
+    "ImagePath": "Assets/birth_of_venus.jpg",
+    "QuestionText": "Кто автор картины 'Рождение Венеры'?",
+    "Options": [ "Донателло", "Боттичелли", "Леонардо да Винчи", "Микеланджело" ],
+    "CorrectOptionIndex": 1
+  },
+  {
+    "Id": "8",
+    "ImagePath": "Assets/the_kiss.jpg",
+    "QuestionText": "Кто написал картину 'Поцелуй' (Der Kuss)?",
+    "Options": [ "Шиле", "Климт", "Кокошка", "Бэкон" ],
+    "CorrectOptionIndex": 1
+  },
+  {
+    "Id": "9",
+    "ImagePath": "Assets/las_meninas.jpg",
+    "QuestionText": "Кто автор картины 'Менины'?",
+    "Options": [ "Гойя", "Мурильо", "Веласкес", "Сурбаран" ],
+    "CorrectOptionIndex": 2
+  },
+  {
+    "Id": "10",
+    "ImagePath": "Assets/sunflowers.jpg",
+    "QuestionText": "Кто написал серию картин 'Подсолнухи'?",
+    "Options": [ "Гоген", "Сезанн", "Ван Гог", "Тулуз-Лотрек" ],
+    "CorrectOptionIndex": 2
+  }
+]

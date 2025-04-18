@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "QuizLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/QuizLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuizLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizLibrary/1.0.0": {
+      "type": "project",
+      "path": "../../QuizLibrary/QuizLibrary.csproj",
+      "msbuildProject": "../../QuizLibrary/QuizLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "QuizLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TurTle\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizDesktopApp\\QuizDesktopApp.csproj",
+      "projectName": "QuizDesktopApp",
+      "projectPath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizDesktopApp\\QuizDesktopApp.csproj",
+      "packagesPath": "C:\\Users\\TurTle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizDesktopApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "CentralPackageTransitivePinningEnabled": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\TurTle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizLibrary\\QuizLibrary.csproj": {
+              "projectPath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizLibrary\\QuizLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "noWarn": [
+          "NU1507"
+        ],
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "centralPackageVersions": {
+          "System.Net.Http.Json": "9.0.4",
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2196"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

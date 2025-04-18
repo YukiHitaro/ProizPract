@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\tests.csproj",
+        "projectName": "tests",
+        "projectPath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\tests.csproj",
+        "packagesPath": "C:\\Users\\TurTle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TurTle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "(, )",
+              "versionCentrallyManaged": true
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "(, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "(, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Playwright.MSTest": {
+              "target": "Package",
+              "version": "(, )",
+              "versionCentrallyManaged": true
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "(, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "System.Net.Http.Json": "9.0.4",
+            "Xamarin.Essentials": "1.7.0",
+            "Xamarin.Forms": "5.0.0.2196"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

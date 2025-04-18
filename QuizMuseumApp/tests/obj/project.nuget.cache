@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rP7GuUokzTc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\tests\\tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1010",
+      "level": "Error",
+      "message": "Элементы PackageReference MSTest.TestAdapter;Microsoft.Playwright.MSTest;MSTest.TestFramework;Microsoft.NET.Test.Sdk;coverlet.collector не имеют соответствующей версии PackageVersion."
+    }
+  ]
+}

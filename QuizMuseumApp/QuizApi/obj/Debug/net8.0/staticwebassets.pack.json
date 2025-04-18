@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\birth_of_venus.jpg",
+      "PackagePath": "staticwebassets\\Assets\\birth_of_venus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\flowers.jpg",
+      "PackagePath": "staticwebassets\\Assets\\flowers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\guernica.jpg",
+      "PackagePath": "staticwebassets\\Assets\\guernica.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\las_meninas.jpg",
+      "PackagePath": "staticwebassets\\Assets\\las_meninas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\mona_lisa.jpg",
+      "PackagePath": "staticwebassets\\Assets\\mona_lisa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\persistence_of_memory.jpg",
+      "PackagePath": "staticwebassets\\Assets\\persistence_of_memory.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\starry_night.jpg",
+      "PackagePath": "staticwebassets\\Assets\\starry_night.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\the_kiss.jpg",
+      "PackagePath": "staticwebassets\\Assets\\the_kiss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\the_scream.jpg",
+      "PackagePath": "staticwebassets\\Assets\\the_scream.jpg"
+    },
+    {
+      "Id": "C:\\Users\\TurTle\\Desktop\\производственная практика\\QuizMuseumApp\\QuizApi\\wwwroot\\Assets\\water_lilies.jpg",
+      "PackagePath": "staticwebassets\\Assets\\water_lilies.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuizApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QuizApi.props",
+      "PackagePath": "build\\QuizApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QuizApi.props",
+      "PackagePath": "buildMultiTargeting\\QuizApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QuizApi.props",
+      "PackagePath": "buildTransitive\\QuizApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

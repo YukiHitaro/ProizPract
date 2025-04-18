@@ -1,0 +1,15 @@
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.deps.json
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\bin\Debug\netstandard2.0\ref\QuizApp.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\bin\Debug\netstandard2.0\QuizApp.pdb
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.csproj.AssemblyReference.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.AssemblyInfoInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.AssemblyInfo.cs
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\refint\QuizApp.dll
+C:\Users\TurTle\Desktop\производственная практика\QuizApp\QuizApp\obj\Debug\netstandard2.0\QuizApp.pdb
